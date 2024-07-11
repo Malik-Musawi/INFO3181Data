@@ -1,0 +1,152 @@
+[
+    {
+        "PRONAME": "PlayStation 5",
+        "GRANAME": "playstation_5.jpg",
+        "COSTPRICE": "500.00",
+        "MSRP": "600.00",
+        "QTYONHAND": "50",
+        "QTYONBACKORDER": "10",
+        "ITEM": "PlayStation 5 console with 825GB SSD.",
+        "BRAND": "Sony"
+    },
+    {
+        "PRONAME": "PlayStation 4",
+        "GRANAME": "playstation_4.jpg",
+        "COSTPRICE": "300.00",
+        "MSRP": "350.00",
+        "QTYONHAND": "30",
+        "QTYONBACKORDER": "5",
+        "ITEM": "PlayStation 4 console with 1TB HDD.",
+        "BRAND": "Sony"
+    },
+    {
+        "PRONAME": "PlayStation DualSense Controller",
+        "GRANAME": "ps5_controller.jpg",
+        "COSTPRICE": "60.00",
+        "MSRP": "70.00",
+        "QTYONHAND": "200",
+        "QTYONBACKORDER": "20",
+        "ITEM": "DualSense wireless controller for PlayStation 5.",
+        "BRAND": "Sony"
+    },
+    {
+        "PRONAME": "PlayStation VR",
+        "GRANAME": "ps_vr.jpg",
+        "COSTPRICE": "400.00",
+        "MSRP": "450.00",
+        "QTYONHAND": "15",
+        "QTYONBACKORDER": "5",
+        "ITEM": "PlayStation VR headset for immersive gaming.",
+        "BRAND": "Sony"
+    },
+    {
+        "PRONAME": "PlayStation 4 Pro",
+        "GRANAME": "ps4_pro.jpg",
+        "COSTPRICE": "400.00",
+        "MSRP": "450.00",
+        "QTYONHAND": "20",
+        "QTYONBACKORDER": "5",
+        "ITEM": "PlayStation 4 Pro console with enhanced performance.",
+        "BRAND": "Sony"
+    },
+    {
+        "PRONAME": "Xbox Series X",
+        "GRANAME": "xbox_series_x.jpg",
+        "COSTPRICE": "500.00",
+        "MSRP": "600.00",
+        "QTYONHAND": "40",
+        "QTYONBACKORDER": "10",
+        "ITEM": "Xbox Series X console with 1TB SSD.",
+        "BRAND": "Microsoft"
+    },
+    {
+        "PRONAME": "Xbox Series S",
+        "GRANAME": "xbox_series_s.jpg",
+        "COSTPRICE": "300.00",
+        "MSRP": "350.00",
+        "QTYONHAND": "35",
+        "QTYONBACKORDER": "5",
+        "ITEM": "Xbox Series S console with 512GB SSD.",
+        "BRAND": "Microsoft"
+    },
+    {
+        "PRONAME": "Xbox One",
+        "GRANAME": "xbox_one.jpg",
+        "COSTPRICE": "300.00",
+        "MSRP": "350.00",
+        "QTYONHAND": "25",
+        "QTYONBACKORDER": "5",
+        "ITEM": "Xbox One console with 1TB HDD.",
+        "BRAND": "Microsoft"
+    },
+    {
+        "PRONAME": "Xbox Wireless Controller",
+        "GRANAME": "xbox_controller.jpg",
+        "COSTPRICE": "50.00",
+        "MSRP": "60.00",
+        "QTYONHAND": "150",
+        "QTYONBACKORDER": "15",
+        "ITEM": "Wireless controller for Xbox Series X and Xbox One.",
+        "BRAND": "Microsoft"
+    },
+    {
+        "PRONAME": "Xbox Game Pass Ultimate",
+        "GRANAME": "xbox_game_pass.jpg",
+        "COSTPRICE": "15.00",
+        "MSRP": "15.00",
+        "QTYONHAND": "500",
+        "QTYONBACKORDER": "0",
+        "ITEM": "Subscription service for Xbox games.",
+        "BRAND": "Microsoft"
+    },
+    {
+        "PRONAME": "Nintendo Switch",
+        "GRANAME": "nintendo_switch.jpg",
+        "COSTPRICE": "300.00",
+        "MSRP": "350.00",
+        "QTYONHAND": "60",
+        "QTYONBACKORDER": "10",
+        "ITEM": "Nintendo Switch console with Joy-Con controllers.",
+        "BRAND": "Nintendo"
+    },
+    {
+        "PRONAME": "Nintendo Switch Lite",
+        "GRANAME": "nintendo_switch_lite.jpg",
+        "COSTPRICE": "200.00",
+        "MSRP": "250.00",
+        "QTYONHAND": "40",
+        "QTYONBACKORDER": "5",
+        "ITEM": "Nintendo Switch Lite handheld console.",
+        "BRAND": "Nintendo"
+    },
+    {
+        "PRONAME": "Nintendo Switch Pro Controller",
+        "GRANAME": "switch_pro_controller.jpg",
+        "COSTPRICE": "70.00",
+        "MSRP": "80.00",
+        "QTYONHAND": "100",
+        "QTYONBACKORDER": "10",
+        "ITEM": "Pro controller for Nintendo Switch.",
+        "BRAND": "Nintendo"
+    },
+    {
+        "PRONAME": "Nintendo Ring Fit Adventure",
+        "GRANAME": "ring_fit_adventure.jpg",
+        "COSTPRICE": "80.00",
+        "MSRP": "90.00",
+        "QTYONHAND": "30",
+        "QTYONBACKORDER": "5",
+        "ITEM": "Fitness game for Nintendo Switch.",
+        "BRAND": "Nintendo"
+    },
+    {
+        "PRONAME": "Nintendo Switch OLED Model",
+        "GRANAME": "switch_oled.jpg",
+        "COSTPRICE": "350.00",
+        "MSRP": "400.00",
+        "QTYONHAND": "25",
+        "QTYONBACKORDER": "5",
+        "ITEM": "Nintendo Switch console with OLED screen.",
+        "BRAND": "Nintendo"
+    }
+]
