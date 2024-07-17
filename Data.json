@@ -6,7 +6,7 @@
         "MSRP": "600.00",
         "QTYONHAND": "50",
         "QTYONBACKORDER": "10",
-        "ITEM": "The PlayStation 5 console offers lightning-fast loading, deeper immersion, and an all-new generation of incredible PlayStation games with an 825GB SSD for faster and more efficient performance.",
+        "ITEM": "PlayStation 5 console with 825GB SSD.",
         "BRAND": "Sony"
     },
     {
@@ -16,7 +16,7 @@
         "MSRP": "350.00",
         "QTYONHAND": "30",
         "QTYONBACKORDER": "5",
-        "ITEM": "The PlayStation 4 console delivers powerful graphics and speed, deeply integrated social capabilities, connected gaming, intelligent personalization, and innovative second-screen features with a 1TB HDD.",
+        "ITEM": "PlayStation 4 console with 1TB HDD.",
         "BRAND": "Sony"
     },
     {
@@ -26,7 +26,7 @@
         "MSRP": "70.00",
         "QTYONHAND": "200",
         "QTYONBACKORDER": "20",
-        "ITEM": "The DualSense wireless controller for PlayStation 5 offers immersive haptic feedback, dynamic adaptive triggers, and a built-in microphone, all integrated into an iconic design.",
+        "ITEM": "DualSense wireless controller for PlayStation 5.",
         "BRAND": "Sony"
     },
     {
@@ -36,7 +36,7 @@
         "MSRP": "450.00",
         "QTYONHAND": "15",
         "QTYONBACKORDER": "5",
-        "ITEM": "The PlayStation VR headset provides an immersive gaming experience, bringing you closer to the action than ever before with a high-definition OLED display and 3D audio.",
+        "ITEM": "PlayStation VR headset for immersive gaming.",
         "BRAND": "Sony"
     },
     {
@@ -46,7 +46,7 @@
         "MSRP": "450.00",
         "QTYONHAND": "20",
         "QTYONBACKORDER": "5",
-        "ITEM": "The PlayStation 4 Pro console enhances your gaming experience with faster frame rates, stunning 4K visuals, and HDR technology for brilliant graphics and lifelike details.",
+        "ITEM": "PlayStation 4 Pro console with enhanced performance.",
         "BRAND": "Sony"
     },
     {
@@ -56,7 +56,7 @@
         "MSRP": "600.00",
         "QTYONHAND": "40",
         "QTYONBACKORDER": "10",
-        "ITEM": "The Xbox Series X console delivers the fastest, most powerful Xbox performance ever, featuring 12 teraflops of processing power, 1TB SSD storage, and true 4K gaming.",
+        "ITEM": "Xbox Series X console with 1TB SSD.",
         "BRAND": "Microsoft"
     },
     {
@@ -66,7 +66,7 @@
         "MSRP": "350.00",
         "QTYONHAND": "35",
         "QTYONBACKORDER": "5",
-        "ITEM": "The Xbox Series S console offers next-gen performance in the smallest Xbox ever, with an all-digital experience, 512GB SSD storage, and a streamlined design.",
+        "ITEM": "Xbox Series S console with 512GB SSD.",
         "BRAND": "Microsoft"
     },
     {
@@ -76,7 +76,7 @@
         "MSRP": "350.00",
         "QTYONHAND": "25",
         "QTYONBACKORDER": "5",
-        "ITEM": "The Xbox One console provides a complete home entertainment system, with a 1TB HDD, advanced multiplayer capabilities, and access to a vast library of games.",
+        "ITEM": "Xbox One console with 1TB HDD.",
         "BRAND": "Microsoft"
     },
     {
@@ -86,7 +86,7 @@
         "MSRP": "60.00",
         "QTYONHAND": "150",
         "QTYONBACKORDER": "15",
-        "ITEM": "The Xbox Wireless Controller offers precise control, enhanced comfort, and seamless connectivity with Xbox Series X, Xbox One, and Windows 10 devices.",
+        "ITEM": "Wireless controller for Xbox Series X and Xbox One.",
         "BRAND": "Microsoft"
     },
     {
@@ -96,7 +96,7 @@
         "MSRP": "15.00",
         "QTYONHAND": "500",
         "QTYONBACKORDER": "0",
-        "ITEM": "The Xbox Game Pass Ultimate subscription service provides unlimited access to over 100 high-quality games, including Xbox Live Gold and EA Play membership.",
+        "ITEM": "Subscription service for Xbox games.",
         "BRAND": "Microsoft"
     },
     {
@@ -106,7 +106,7 @@
         "MSRP": "350.00",
         "QTYONHAND": "60",
         "QTYONBACKORDER": "10",
-        "ITEM": "The Nintendo Switch console offers versatile gaming with its hybrid design, allowing you to play at home or on the go with detachable Joy-Con controllers and a vibrant display.",
+        "ITEM": "Nintendo Switch console with Joy-Con controllers.",
         "BRAND": "Nintendo"
     },
     {
@@ -116,7 +116,7 @@
         "MSRP": "250.00",
         "QTYONHAND": "40",
         "QTYONBACKORDER": "5",
-        "ITEM": "The Nintendo Switch Lite is a compact, lightweight handheld console perfect for gaming on the go, featuring integrated controls and compatibility with the Nintendo Switch library.",
+        "ITEM": "Nintendo Switch Lite handheld console.",
         "BRAND": "Nintendo"
     },
     {
@@ -126,7 +126,7 @@
         "MSRP": "80.00",
         "QTYONHAND": "100",
         "QTYONBACKORDER": "10",
-        "ITEM": "The Nintendo Switch Pro Controller offers a premium controller experience, with a comfortable grip, motion controls, and HD rumble for immersive gameplay.",
+        "ITEM": "Pro controller for Nintendo Switch.",
         "BRAND": "Nintendo"
     },
     {
@@ -136,7 +136,7 @@
         "MSRP": "90.00",
         "QTYONHAND": "30",
         "QTYONBACKORDER": "5",
-        "ITEM": "The Nintendo Ring Fit Adventure combines fitness and adventure gaming, providing a fun and interactive way to stay active with a unique Ring-Con and Leg Strap accessories.",
+        "ITEM": "Fitness game for Nintendo Switch.",
         "BRAND": "Nintendo"
     },
     {
@@ -146,7 +146,7 @@
         "MSRP": "400.00",
         "QTYONHAND": "25",
         "QTYONBACKORDER": "5",
-        "ITEM": "The Nintendo Switch OLED Model features a vibrant 7-inch OLED screen, enhanced audio, and an adjustable stand for the ultimate gaming experience at home or on the go.",
+        "ITEM": "Nintendo Switch console with OLED screen.",
         "BRAND": "Nintendo"
     }
 ]
