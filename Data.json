@@ -6,9 +6,8 @@
         "MSRP": "600.00",
         "QTYONHAND": "50",
         "QTYONBACKORDER": "10",
-        "ITEM": "PlayStation 5 .",
-        "BRAND": "Sony",
-        "DESCRIPTION": "The PlayStation 5 is Sony's latest gaming console, featuring an ultra-fast 825GB SSD for quick load times and breathtaking graphics. With 50 units available and a competitive price, it's a must-have for any serious gamer. The PS5 promises an immersive gaming experience, bringing your games to life with its advanced features and capabilities."
+        "ITEM": "The PlayStation 5 console offers lightning-fast loading, deeper immersion, and an all-new generation of incredible PlayStation games with an 825GB SSD for faster and more efficient performance.",
+        "BRAND": "Sony"
     },
     {
         "PRONAME": "PlayStation 4",
@@ -17,9 +16,8 @@
         "MSRP": "350.00",
         "QTYONHAND": "30",
         "QTYONBACKORDER": "5",
-        "ITEM": "PlayStation 4 .",
-        "BRAND": "Sony",
-        "DESCRIPTION": "For those who prefer a more budget-friendly option, the PlayStation 4 offers a fantastic gaming experience with its 1TB HDD. It's perfect for enjoying a vast library of games at an affordable price. With 30 units in stock, it's a great choice for gamers who want quality and value."
+        "ITEM": "The PlayStation 4 console delivers powerful graphics and speed, deeply integrated social capabilities, connected gaming, intelligent personalization, and innovative second-screen features with a 1TB HDD.",
+        "BRAND": "Sony"
     },
     {
         "PRONAME": "PlayStation DualSense Controller",
@@ -28,9 +26,8 @@
         "MSRP": "70.00",
         "QTYONHAND": "200",
         "QTYONBACKORDER": "20",
-        "ITEM": "DualSense controller for PlayStation 5.",
-        "BRAND": "Sony",
-        "DESCRIPTION": "Enhance your PlayStation 5 experience with the DualSense wireless controller. Its innovative features, such as haptic feedback and adaptive triggers, provide a deeper, more immersive gaming experience. With 200 units on hand, it's an essential accessory for every PS5 owner."
+        "ITEM": "The DualSense wireless controller for PlayStation 5 offers immersive haptic feedback, dynamic adaptive triggers, and a built-in microphone, all integrated into an iconic design.",
+        "BRAND": "Sony"
     },
     {
         "PRONAME": "PlayStation VR",
@@ -39,9 +36,8 @@
         "MSRP": "450.00",
         "QTYONHAND": "15",
         "QTYONBACKORDER": "5",
-        "ITEM": "PlayStation VR headset.",
-        "BRAND": "Sony",
-        "DESCRIPTION": "Step into the world of virtual reality with the PlayStation VR headset. It offers an unparalleled immersive gaming experience, making you feel like you're part of the game. With 15 units available, it's a great addition to any gaming setup."
+        "ITEM": "The PlayStation VR headset provides an immersive gaming experience, bringing you closer to the action than ever before with a high-definition OLED display and 3D audio.",
+        "BRAND": "Sony"
     },
     {
         "PRONAME": "PlayStation 4 Pro",
@@ -50,9 +46,8 @@
         "MSRP": "450.00",
         "QTYONHAND": "20",
         "QTYONBACKORDER": "5",
-        "ITEM": "PlayStation 4 Pro.",
-        "BRAND": "Sony",
-        "DESCRIPTION": "The PlayStation 4 Pro is perfect for gamers who want enhanced performance and stunning visuals. It’s a step up from the standard PS4, offering better graphics and faster processing speeds. With 20 units in stock, it’s a solid choice for any gaming enthusiast."
+        "ITEM": "The PlayStation 4 Pro console enhances your gaming experience with faster frame rates, stunning 4K visuals, and HDR technology for brilliant graphics and lifelike details.",
+        "BRAND": "Sony"
     },
     {
         "PRONAME": "Xbox Series X",
@@ -61,9 +56,8 @@
         "MSRP": "600.00",
         "QTYONHAND": "40",
         "QTYONBACKORDER": "10",
-        "ITEM": "Xbox Series X console with 1TB SSD.",
-        "BRAND": "Microsoft",
-        "DESCRIPTION": "The Xbox Series X from Microsoft is a powerhouse of a console, boasting a 1TB SSD for lightning-fast load times and incredible performance. With 40 units available, it's ideal for gamers looking for top-tier gaming experiences."
+        "ITEM": "The Xbox Series X console delivers the fastest, most powerful Xbox performance ever, featuring 12 teraflops of processing power, 1TB SSD storage, and true 4K gaming.",
+        "BRAND": "Microsoft"
     },
     {
         "PRONAME": "Xbox Series S",
@@ -72,9 +66,8 @@
         "MSRP": "350.00",
         "QTYONHAND": "35",
         "QTYONBACKORDER": "5",
-        "ITEM": "Xbox Series S console with 512GB SSD.",
-        "BRAND": "Microsoft",
-        "DESCRIPTION": "For a more affordable yet powerful option, the Xbox Series S offers great performance with its 512GB SSD. With 35 units in stock, it's perfect for gamers who want next-gen performance without breaking the bank."
+        "ITEM": "The Xbox Series S console offers next-gen performance in the smallest Xbox ever, with an all-digital experience, 512GB SSD storage, and a streamlined design.",
+        "BRAND": "Microsoft"
     },
     {
         "PRONAME": "Xbox One",
@@ -83,9 +76,8 @@
         "MSRP": "350.00",
         "QTYONHAND": "25",
         "QTYONBACKORDER": "5",
-        "ITEM": "Xbox One console with 1TB HDD.",
-        "BRAND": "Microsoft",
-        "DESCRIPTION": "The Xbox One remains a reliable and popular choice with its 1TB HDD, offering a great gaming experience with a vast library of games. With 25 units on hand, it’s a dependable option for any gamer."
+        "ITEM": "The Xbox One console provides a complete home entertainment system, with a 1TB HDD, advanced multiplayer capabilities, and access to a vast library of games.",
+        "BRAND": "Microsoft"
     },
     {
         "PRONAME": "Xbox Wireless Controller",
@@ -94,9 +86,8 @@
         "MSRP": "60.00",
         "QTYONHAND": "150",
         "QTYONBACKORDER": "15",
-        "ITEM": "Wireless controller for Xbox Series X and Xbox One.",
-        "BRAND": "Microsoft",
-        "DESCRIPTION": "Enhance your Xbox gaming with the Xbox Wireless Controller, compatible with both Xbox Series X and Xbox One. With 150 units available, it’s a great accessory to improve your gaming experience."
+        "ITEM": "The Xbox Wireless Controller offers precise control, enhanced comfort, and seamless connectivity with Xbox Series X, Xbox One, and Windows 10 devices.",
+        "BRAND": "Microsoft"
     },
     {
         "PRONAME": "Xbox Game Pass Ultimate",
@@ -105,9 +96,8 @@
         "MSRP": "15.00",
         "QTYONHAND": "500",
         "QTYONBACKORDER": "0",
-        "ITEM": "Subscription service for Xbox games.",
-        "BRAND": "Microsoft",
-        "DESCRIPTION": "The Xbox Game Pass Ultimate subscription service offers access to a wide range of games, making it a valuable addition to any Xbox owner’s library. With 500 units available, it’s a great way to enjoy a variety of games."
+        "ITEM": "The Xbox Game Pass Ultimate subscription service provides unlimited access to over 100 high-quality games, including Xbox Live Gold and EA Play membership.",
+        "BRAND": "Microsoft"
     },
     {
         "PRONAME": "Nintendo Switch",
@@ -116,9 +106,8 @@
         "MSRP": "350.00",
         "QTYONHAND": "60",
         "QTYONBACKORDER": "10",
-        "ITEM": "Nintendo Switch console with Joy-Con controllers.",
-        "BRAND": "Nintendo",
-        "DESCRIPTION": "The Nintendo Switch is a versatile console that can be used both at home and on the go. With 60 units available, it’s a fantastic choice for gamers who want flexibility and a great gaming experience."
+        "ITEM": "The Nintendo Switch console offers versatile gaming with its hybrid design, allowing you to play at home or on the go with detachable Joy-Con controllers and a vibrant display.",
+        "BRAND": "Nintendo"
     },
     {
         "PRONAME": "Nintendo Switch Lite",
@@ -127,9 +116,8 @@
         "MSRP": "250.00",
         "QTYONHAND": "40",
         "QTYONBACKORDER": "5",
-        "ITEM": "Nintendo Switch Lite handheld console.",
-        "BRAND": "Nintendo",
-        "DESCRIPTION": "The Nintendo Switch Lite is perfect for handheld gaming, offering the same great games as the standard Switch in a more portable form. With 40 units on hand, it’s ideal for gaming on the go."
+        "ITEM": "The Nintendo Switch Lite is a compact, lightweight handheld console perfect for gaming on the go, featuring integrated controls and compatibility with the Nintendo Switch library.",
+        "BRAND": "Nintendo"
     },
     {
         "PRONAME": "Nintendo Switch Pro Controller",
@@ -138,9 +126,8 @@
         "MSRP": "80.00",
         "QTYONHAND": "100",
         "QTYONBACKORDER": "10",
-        "ITEM": "Pro controller for Nintendo Switch.",
-        "BRAND": "Nintendo",
-        "DESCRIPTION": "For a more comfortable gaming experience on the Nintendo Switch, the Pro Controller is a must-have accessory. With 100 units available, it’s perfect for extended gaming sessions."
+        "ITEM": "The Nintendo Switch Pro Controller offers a premium controller experience, with a comfortable grip, motion controls, and HD rumble for immersive gameplay.",
+        "BRAND": "Nintendo"
     },
     {
         "PRONAME": "Nintendo Ring Fit Adventure",
@@ -149,9 +136,8 @@
         "MSRP": "90.00",
         "QTYONHAND": "30",
         "QTYONBACKORDER": "5",
-        "ITEM": "Fitness game for Nintendo Switch.",
-        "BRAND": "Nintendo",
-        "DESCRIPTION": "Combine fitness with fun using the Nintendo Ring Fit Adventure. It’s a great way to stay active while enjoying your favorite games. With 30 units available, it’s a unique addition to any gaming collection."
+        "ITEM": "The Nintendo Ring Fit Adventure combines fitness and adventure gaming, providing a fun and interactive way to stay active with a unique Ring-Con and Leg Strap accessories.",
+        "BRAND": "Nintendo"
     },
     {
         "PRONAME": "Nintendo Switch OLED Model",
@@ -160,8 +146,7 @@
         "MSRP": "400.00",
         "QTYONHAND": "25",
         "QTYONBACKORDER": "5",
-        "ITEM": "Nintendo Switch console with OLED screen.",
-        "BRAND": "Nintendo",
-        "DESCRIPTION": "The Nintendo Switch OLED Model offers an enhanced gaming experience with its vibrant OLED screen. With 25 units in stock, it’s the ultimate version of the popular console, providing stunning visuals and improved performance."
+        "ITEM": "The Nintendo Switch OLED Model features a vibrant 7-inch OLED screen, enhanced audio, and an adjustable stand for the ultimate gaming experience at home or on the go.",
+        "BRAND": "Nintendo"
     }
 ]
