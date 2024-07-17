@@ -6,7 +6,7 @@
         "MSRP": "600.00",
         "QTYONHAND": "50",
         "QTYONBACKORDER": "10",
-        "ITEM": "PlayStation 5 console with 825GB SSD.",
+        "ITEM": "PlayStation 5 .",
         "BRAND": "Sony",
         "DESCRIPTION": "The PlayStation 5 is Sony's latest gaming console, featuring an ultra-fast 825GB SSD for quick load times and breathtaking graphics. With 50 units available and a competitive price, it's a must-have for any serious gamer. The PS5 promises an immersive gaming experience, bringing your games to life with its advanced features and capabilities."
     },
@@ -17,7 +17,7 @@
         "MSRP": "350.00",
         "QTYONHAND": "30",
         "QTYONBACKORDER": "5",
-        "ITEM": "PlayStation 4 console with 1TB HDD.",
+        "ITEM": "PlayStation 4 .",
         "BRAND": "Sony",
         "DESCRIPTION": "For those who prefer a more budget-friendly option, the PlayStation 4 offers a fantastic gaming experience with its 1TB HDD. It's perfect for enjoying a vast library of games at an affordable price. With 30 units in stock, it's a great choice for gamers who want quality and value."
     },
@@ -28,7 +28,7 @@
         "MSRP": "70.00",
         "QTYONHAND": "200",
         "QTYONBACKORDER": "20",
-        "ITEM": "DualSense wireless controller for PlayStation 5.",
+        "ITEM": "DualSense controller for PlayStation 5.",
         "BRAND": "Sony",
         "DESCRIPTION": "Enhance your PlayStation 5 experience with the DualSense wireless controller. Its innovative features, such as haptic feedback and adaptive triggers, provide a deeper, more immersive gaming experience. With 200 units on hand, it's an essential accessory for every PS5 owner."
     },
@@ -39,7 +39,7 @@
         "MSRP": "450.00",
         "QTYONHAND": "15",
         "QTYONBACKORDER": "5",
-        "ITEM": "PlayStation VR headset for immersive gaming.",
+        "ITEM": "PlayStation VR headset.",
         "BRAND": "Sony",
         "DESCRIPTION": "Step into the world of virtual reality with the PlayStation VR headset. It offers an unparalleled immersive gaming experience, making you feel like you're part of the game. With 15 units available, it's a great addition to any gaming setup."
     },
@@ -50,7 +50,7 @@
         "MSRP": "450.00",
         "QTYONHAND": "20",
         "QTYONBACKORDER": "5",
-        "ITEM": "PlayStation 4 Pro console with enhanced performance.",
+        "ITEM": "PlayStation 4 Pro.",
         "BRAND": "Sony",
         "DESCRIPTION": "The PlayStation 4 Pro is perfect for gamers who want enhanced performance and stunning visuals. It’s a step up from the standard PS4, offering better graphics and faster processing speeds. With 20 units in stock, it’s a solid choice for any gaming enthusiast."
     },
